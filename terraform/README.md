@@ -25,7 +25,7 @@ Primero se debe crear el archivo con las definicion de las variables llamado ter
     vm_ram                    = "8192"
     vsphere_tag_cc            = "Estructura"
     vsphere_tag_env           = "DEV"
-    domain                    = "g-bapro.net"
+    domain                    = "domain"
     domain_admin_username     = "username"
     domain_admin_password     = "password"
     ipv4_addresses            = ["x.x.x.x","x.x.x.x"]
